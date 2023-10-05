@@ -11,3 +11,9 @@ permalink: LINKS/
 * [Linux From Scratch Playlist](https://www.youtube.com/watch?v=9TYr1mCzMcg&list=PLyc5xVO2uDsAlIkKBIGauDQ6LejoQovyL) ---> A playlist for basic LFS
 * [Basic Disk Partition In Linux](https://www.youtube.com/watch?v=9i_oZkgd4c8) ---> A video about disk partitions and mount points in Linux
 * [Tutorial How to Compile and Run C Program Using GCC](https://www.youtube.com/watch?v=oLjN6jAg-sY) ---> Running and Compiling C in Linux
+* [Linux Harderning, Privacy, Security Guide](https://www.youtube.com/watch?v=Sa0KqbpLye4) ---> Basic learning hardening, privacy, and security in linux
+* [Memory Management](https://www.youtube.com/watch?v=UDPYpf-nsDY) ---> Explaination about memory management
+* [Virtual Memory](https://www.youtube.com/watch?v=qcBIvnQt0Bw&list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX) ---> Learn about virtual memory
+* [Basic Concurrency](https://www.youtube.com/watch?v=Wv7mzX8w3jI) ---> Process and Threads
+* [Synchronization & Deadlock](https://www.youtube.com/watch?v=hMA6LWN_IBQ&list=PL0rQdWUGhRqrjIgZAkv3i2QujZzHWwGJC) ---> Basic of Synchronization & Deadlock
+* [Linux Kernel](https://www.youtube.com/watch?v=JDfo2Lc7iLU) ---> Explanation of what computer kernels are and how they work
