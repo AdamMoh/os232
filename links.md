@@ -17,3 +17,4 @@ permalink: LINKS/
 * [Basic Concurrency](https://www.youtube.com/watch?v=Wv7mzX8w3jI) ---> Process and Threads
 * [Synchronization & Deadlock](https://www.youtube.com/watch?v=hMA6LWN_IBQ&list=PL0rQdWUGhRqrjIgZAkv3i2QujZzHWwGJC) ---> Basic of Synchronization & Deadlock
 * [Linux Kernel](https://www.youtube.com/watch?v=JDfo2Lc7iLU) ---> Explanation of what computer kernels are and how they work
+* [Linux Crash Course - Easy Terminal Cammnds for Inspecting Hardware](https://youtu.be/oGyJr-iUwt8?si=59V2boc0XfmlFekg) ---> Some easy-to-use commands you can use to inspect hardware. These commands will help you list PCI devices, view information about your CPU, and more.
