@@ -20,3 +20,4 @@ permalink: LINKS/
 * [Linux Crash Course - Easy Terminal Cammnds for Inspecting Hardware](https://youtu.be/oGyJr-iUwt8?si=59V2boc0XfmlFekg) ---> Some easy-to-use commands you can use to inspect hardware. These commands will help you list PCI devices, view information about your CPU, and more.
 * [Linux Operating System - Crash Course for Beginners](https://www.youtube.com/watch?v=ROjZy1WbCIA) --->Learn the basics of the Linux OS in this crash course for beginners
 * [Testing And Troubleshooting LFS](https://www.youtube.com/watch?v=xTrGgKYA1BE) ---> Tutorial for testing and troubleshoot LFS
+* [Linux - Understanding chroot](https://www.youtube.com/watch?v=2wSJREC7RV8) ---> Some tips for chroot
