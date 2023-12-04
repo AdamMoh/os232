@@ -21,3 +21,4 @@ permalink: LINKS/
 * [Linux Operating System - Crash Course for Beginners](https://www.youtube.com/watch?v=ROjZy1WbCIA) --->Learn the basics of the Linux OS in this crash course for beginners
 * [Testing And Troubleshooting LFS](https://www.youtube.com/watch?v=xTrGgKYA1BE) ---> Tutorial for testing and troubleshoot LFS
 * [Linux - Understanding chroot](https://www.youtube.com/watch?v=2wSJREC7RV8) ---> Some tips for chroot
+* [Kernotext Playlist LFS](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315) ---> A helpful playlist for doing LFS :D
